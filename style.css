@@ -6,3 +6,12 @@ ul {
     position: relative;
     right: 200px;
 }
+
+header {
+    background-image: url("images/prayer-man.png");
+    background-size: cover;
+    
+     
+
+
+}
